@@ -23,7 +23,7 @@ Grompt is a Python utility that uses the Groq LLM provider service to instantly 
 1. Clone this repository:
 
    ```
-   git clone https://github.com/
+   git clone https://github.com/Jagarut/Gprompt
    cd Grompt
    ```
 

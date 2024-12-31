@@ -167,6 +167,6 @@ st.sidebar.info(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("[View on GitHub]")
+st.sidebar.markdown("[View on GitHub]https://github.com/Jagarut/Gprompt")
 st.sidebar.markdown("Created by J. Gravelle<br>Debugged by ChusDeBoss", unsafe_allow_html=True)
 
